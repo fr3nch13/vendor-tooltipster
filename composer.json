@@ -1,0 +1,11 @@
+{
+	"name": "fr3nch13/vendor-tooltipster",
+	"type": "component",
+	"keywords": ["jquery", "tooltip", "popup"],
+	"description": "From: https://github.com/iamceege/tooltipster",
+	"homepage": "https://github.com/fr3nch13/vendor-tooltipster",
+    	"require": {
+		"components/jquery": "*",
+		"components/jqueryui": "*"
+	}
+}
